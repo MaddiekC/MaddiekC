@@ -3,8 +3,11 @@
 
 <p align="center">ENGLISH - SPANISH </p>
 <p> Here you can find many projects that I've worked.</p>
-<p>- 📫 How to reach me **madeleinkc@gmail.com** </p>
 
+- 🐋 I like learning new skills
+- 💻 Currently learning all about web development 
+- 🌱 I enjoy setting new goals and working on becoming the best version of myself.
+- 📫 How to reach me: **madeleinkc@gmail.com** 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maddiekc&show_icons=true&locale=en&layout=compact" alt="maddiekc" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
