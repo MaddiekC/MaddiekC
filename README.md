@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maddie</h1>
-<h3 align="center">Fullstack developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">ENGLISH - SPANISH </p>
 <p> Here you can find many projects that I've worked.</p>
